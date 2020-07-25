@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">WeatherService</string>
+    <string name="type_city_name">Type city name</string>
+    <string name="degree_format_celsius" translatable="false">°С</string>
+    <string name="wind">Wind:</string>
+    <string name="wind_speed_format">m/s</string>
+    <string name="pressure">Pressure:</string>
+    <string name="pressure_format">hPa</string>
+    <string name="humidity">Humidity:</string>
+    <string name="humidity_format" translatable="false">%</string>
+    <string name="error_message">Oops, error!</string>
+    <string name="error_code">Error code:</string>
+    <string name="advice_404">Apparently, the city you entered does not exist.</string>
+
+    <!--wind direction-->
+    <string name="north">north</string>
+    <string name="south">south</string>
+    <string name="west">west</string>
+    <string name="east">east</string>
+    <string name="northeast">northeast</string>
+    <string name="southeast">southeast</string>
+    <string name="southwest">southwest</string>
+    <string name="northwest">northwest</string>
+
 </resources>

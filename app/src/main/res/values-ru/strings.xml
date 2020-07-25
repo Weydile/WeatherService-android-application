@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherService</string>
+    <string name="type_city_name">Введите имя города</string>
+    <string name="wind">Ветер:</string>
+    <string name="wind_speed_format">м/с</string>
+    <string name="pressure">Давление</string>
+    <string name="pressure_format">Гекто-Паскаль</string>
+    <string name="humidity">Влажность:</string>
+    <string name="error_message">Упс, ошибка!</string>
+    <string name="error_code">Код ошибки:</string>
+    <string name="advice_404">Вероятно, город который вы ввели не существует.</string>
+    <string name="north">сееверный</string>
+    <string name="south">южный</string>
+    <string name="west">западный</string>
+    <string name="east">восточный</string>
+    <string name="northeast">северо-восточный</string>
+    <string name="southeast">юго-восточный</string>
+    <string name="southwest">юго-западный</string>
+    <string name="northwest">северо-западный</string>
+</resources>
